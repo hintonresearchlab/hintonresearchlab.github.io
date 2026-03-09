@@ -1,0 +1,118 @@
+/* assets/scss/people.scss */
+.people-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  
+  .people-header {
+    text-align: center;
+    margin-bottom: 3rem;
+    
+    h1 {
+      font-size: 2.5rem;
+      color: #333;
+    }
+  }
+  
+  .people-section {
+    margin-bottom: 4rem;
+    
+    h2 {
+      font-size: 2rem;
+      border-bottom: 2px solid #3498db;
+      padding-bottom: 0.5rem;
+      margin-bottom: 2rem;
+    }
+  }
+  
+  .people-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 2rem;
+  }
+  
+  .people-card {
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
+    
+    &:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 6px 12px rgba(0,0,0,0.15);
+    }
+  }
+  
+  .people-photo {
+    width: 100%;
+    height: 250px;
+    overflow: hidden;
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  
+  .people-info {
+    padding: 1.5rem;
+  }
+  
+  .people-name {
+    font-size: 1.25rem;
+    margin: 0 0 0.5rem;
+    color: #2c3e50;
+  }
+  
+  .people-position {
+    color: #7f8c8d;
+    font-size: 0.9rem;
+    font-style: italic;
+    margin-bottom: 1rem;
+  }
+  
+  .people-research {
+    margin: 1rem 0;
+    
+    h4 {
+      font-size: 0.9rem;
+      color: #34495e;
+      margin-bottom: 0.5rem;
+    }
+    
+    ul {
+      margin: 0;
+      padding-left: 1.2rem;
+      
+      li {
+        font-size: 0.85rem;
+        color: #555;
+      }
+    }
+  }
+  
+  .people-links {
+    display: flex;
+    gap: 0.75rem;
+    margin-top: 1rem;
+    
+    .people-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: #f8f9fa;
+      color: #3498db;
+      text-decoration: none;
+      transition: background 0.3s;
+      
+      &:hover {
+        background: #e9ecef;
+      }
+    }
+  }
+}

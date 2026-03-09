@@ -1,0 +1,116 @@
+pi:
+  - name: "Joyce Y. Chai"
+    position: "Professor"
+    photo: "images/people/jane.jpg"
+    website: "https://web.eecs.umich.edu/~chai/"
+    research:
+      - "Situated Language"
+      - "Computational Models"
+      - "Conversational AI"
+
+  # - name: "John Doe"
+  #   position: "Professor"
+  #   photo: "images/people/ba.jpg"
+  #   website: "https://web.eecs.umich.edu/~chai/"
+  #   research:
+  #     - "Situated Language"
+  #     - "Computational Models"
+  #     - "Conversational AI"
+
+  # - name: "Jacob Alexzander"
+  #   position: "Professor"
+  #   photo: "images/people/cba.jpg"
+  #   website: "https://web.eecs.umich.edu/~chai/"
+  #   research:
+  #     - "Situated Language"
+  #     - "Computational Models"
+  #     - "Conversational AI"
+
+phd:
+  - name: "Debasish Dutta"
+    position: "Ph.D. Student, NSF CSGrad4US Fellow"
+    photo: "images/people/john.jpg"
+    research:
+      - "Agentic AI"
+      - "LLMs"
+      - "Autonomous Agents"
+
+  - name: "Deepjyoti Chetia"
+    position: "Ph.D. Student"
+    photo: "images/people/advisor.jpg"
+    research:
+      - "Natural Language Reasoning"
+      - "NLG"
+  
+  - name: "Chimaobi Okite"
+    position: "Ph.D. Student"
+    photo: "images/people/ab.jpg"
+    research:
+      - "Natural Language Reasoning"
+      - "NLG"
+
+  - name: "Josue Torres-Fonseca"
+    position: "Ph.D. Student"
+    photo: "images/people/abcd.jpg"
+    research:
+      - "Robotics"
+      - "Vision-Language Models"
+
+  - name: "Run \"Roihn\" Peng"
+    position: "Ph.D. Student"
+    photo: "images/people/abc.jpg"
+    research:
+      - "LLM Agents"
+      - "Reasoning"
+
+
+phd_alumni:
+  - name: "Jianing Jed Yang"
+    year: "Ph.D. 2025"
+    next: "Figure AI"
+  - name: "Keunwoo Peter Yu"
+    year: "Ph.D. 2025"
+    next: "Wayve"
+
+masters_alumni:
+  - name: "Jayjun Lee"
+    year: "2023–2025"
+    next: "PhD at UMich"
+  - name: "Zheyan Zhang"
+    year: "2022–2025"
+    next: "PhD at JHU"
+
+undergrad_alumni:
+  - name: "Tian Xia"
+    year: "2024–2025"
+    next: "MS at Harvard"
+  - name: "Sihan Xu"
+    year: "2023–2025"
+    next: "PhD at UMich"
+
+
+# alumni_phd:
+#   - name: "Jianing Jed Yang"
+#     position: "Ph.D., Class of 2025"
+#     photo: "images/people/jed-yang.jpg"
+#     next: "Figure AI"
+
+#   - name: "Keunwoo Peter Yu"
+#     position: "Ph.D., Class of 2025"
+#     photo: "images/people/keunwoo-yu.jpg"
+#     next: "Wayve"
+
+#   - name: "Yuwei Bao"
+#     position: "Ph.D., Class of 2025"
+#     photo: "images/people/yuwei-bao.jpg"
+#     next: "Microsoft Research"
+
+# alumni_ms:
+#   - name: "Student Name"
+#     position: "M.S., Class of 2024"
+#     next: "Company / PhD Program"
+
+# alumni_ug:
+#   - name: "Student Name"
+#     position: "B.S., Class of 2023"
+#     next: "Company / University"

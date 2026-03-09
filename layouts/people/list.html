@@ -1,0 +1,78 @@
+{{ define "main" }}
+
+<link rel="stylesheet" href="{{ "css/people.css" | relURL }}">
+
+<div class="container people-page">
+
+  <h1 style="text-align: center;">{{ .Title }}</h1>
+  <p style="text-align: center;">{{ .Params.description }}</p>
+
+  {{ $data := site.Data.people }}
+
+  <!-- ================= FACULTY ================= -->
+  <h2>Faculty</h2>
+  <div class="people-grid">
+    {{ range $data.faculty }}
+    <div class="person-card">
+      <img src="{{ .photo | relURL }}" alt="{{ .name }}">
+      <h3>{{ .name }}</h3>
+      <p>{{ .position }}</p>
+    </div>
+    {{ end }}
+  </div>
+  <br>
+
+  <!-- ================= PHD STUDENTS ================= -->
+  <h2>Ph.D. Students</h2>
+  <div class="people-grid">
+    {{ range $data.phd }}
+    <div class="person-card">
+      <img src="{{ .photo | relURL }}" alt="{{ .name }}">
+      <h3>{{ .name }}</h3>
+      <p>{{ .position }}</p>
+    </div>
+    {{ end }}
+  </div>
+  <br>
+
+  <!-- ================= ALUMNI ================= -->
+  <h1>Alumni</h1>
+  <hr>
+
+  <div class="alumni-columns">
+
+    <!-- PhD Alumni -->
+    <div class="alumni-col">
+      <h3>Ph.D. Alumni:</h3>
+      <ul>
+        {{ range $data.phd_alumni }}
+        <li>{{ .name }} ({{ .year }} → {{ .next }})</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- Masters Alumni -->
+    <div class="alumni-col">
+      <h3>Master’s Alumni:</h3>
+      <ul>
+        {{ range $data.masters_alumni }}
+        <li>{{ .name }} ({{ .year }} → {{ .next }})</li>
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- Undergrad Alumni -->
+    <div class="alumni-col">
+      <h3>Undergraduate Alumni:</h3>
+      <ul>
+        {{ range $data.undergrad_alumni }}
+        <li>{{ .name }} ({{ .year }} → {{ .next }})</li>
+        {{ end }}
+      </ul>
+    </div>
+
+  </div>
+
+</div>
+
+{{ end }}

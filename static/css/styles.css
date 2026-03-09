@@ -1,0 +1,49 @@
+/* === People section styling (SLED-like) === */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.8rem;
+  margin: 1.5rem 0;
+  padding: 0;
+}
+
+.person-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 1.2rem;
+  text-align: center;
+  transition: transform 0.15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.person-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.person-card img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 0.8rem;
+  border: 3px solid #eee;
+}
+
+.person-card h3 {
+  margin: 0.5rem 0 0.3rem;
+  font-size: 1.25rem;
+  color: #222;
+}
+
+.person-card .position {
+  font-size: 0.95rem;
+  color: #555;
+  margin: 0.2rem 0;
+}
+
+.person-card .email {
+  font-size: 0.85rem;
+  color: #0077cc;
+}
