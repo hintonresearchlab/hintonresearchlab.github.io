@@ -1,8 +1,7 @@
 ---
-title: "Super Resolution"
+title: "Unconstrained Compound Characters"
 
-date: "2019-04-07T00:00:00Z"
-
+date: "2016-01-07T00:00:00Z"
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

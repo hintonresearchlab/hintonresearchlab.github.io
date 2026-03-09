@@ -11,4 +11,6 @@ publishDate: '2026-03-05T14:43:34.551883Z'
 publication_types:
 - manuscript
 publication: '*arXiv preprint arXiv:2501.07855*'
+research_projects:
+  - Super Resolution
 ---
