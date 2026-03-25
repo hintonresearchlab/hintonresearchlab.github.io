@@ -14,50 +14,55 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Junior Research Fellow @ UGC NET
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Gauhati University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Computer Vision
+  - Super Resolution
+  - Microscopic Image Enhanchement
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: Gauhati University
+      year: 2023-Present
+    - course: Masters in Computer Science
+      institution: Gauhati University
+      year: 2023
+    - course: Bachelors in Electronics
+      institution: North Lakhimpur College
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:debasish@gauhati.ac.in'
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://www.linkedin.com/in/debasish-n
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=yv80ZPQAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/debasish-dutta
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Debasish-Dutta-17
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,6 +79,4 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+PhD researcher specializing in computational microscopy, with a focus on deep learning–based enhancement techniques including super-resolution, denoising, PSF-based deconvolution, and physics aware image restoration.

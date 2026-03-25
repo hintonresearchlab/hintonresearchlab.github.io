@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Deepjyoti Chetia
+title: Rupjyoti Ray
 
 # Full name (for SEO)
-first_name: Deepjyoti
-last_name: Chetia
+first_name: Rupjyoti
+last_name: Ray
 
 # Username (this should match the folder name)
 authors:
-  - Deepjyoti Chetia
+  - Rupjyoti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junnior Project Fellow @ GB Pant IERP
+role: Research Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include Handwritten Character Recognition, Image Processing, Deep Learning.
 
 interests:
-  - Computer Vision
+  - Handwritten Compund Character Recognition
+  - Image Processing
   - Deep Learning
-  - Medicinal Plant Identification
 
 education:
   courses:
-    - course: PhD in Computer Science
-      institution: Gauhati University
-      year: 2023-Present
-    - course: Masters in Computer Science
+    - course: PhD Computer Science
       institution: Gauhati University
       year: 2022
-    - course: Bachelors in Computer Science
+    - course: Masters in Computer SCience
+      institution: Gauhati University
+      year: 2020
+    - course: BSc in Computer SCience
       institution: Lalit Chandra Bharali College
-      year: 2019
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,19 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:deepjyotichetia@gauhati.ac.in'
-  - icon: linkedin
+    link: 'mailto:test@example.org'
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/deepjyoti-chetia-0511b716a
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://g.co/kgs/8f3EMSy
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/sudonym221
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Deepjyoti-Chetia
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +74,5 @@ user_groups:
   - Visitors
 ---
 
-Project fellow and PhD Scholar @Gauhati University specializing in Computer Vision, Image processing and Deep Learning, With experience in Teaching and Software Development.
+
+My research interests include Handwritten Character Recognition, Image Processing, Deep Learning.

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Deepjyoti Chetia
+title: Pallavi Saikia
 
 # Full name (for SEO)
-first_name: Deepjyoti
-last_name: Chetia
+first_name: Pallavi
+last_name: Saikia
 
 # Username (this should match the folder name)
 authors:
-  - Deepjyoti Chetia
+  - Manash
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Junnior Project Fellow @ GB Pant IERP
+role: Reserach Scholar
 
 # Organizations/Affiliations
 organizations:
@@ -22,24 +22,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include Medicaolm Imaging, Computer Vision and Image Processing,
 
 interests:
-  - Computer Vision
+  - Artificial Intelligence
+  - Medical Imaging
   - Deep Learning
-  - Medicinal Plant Identification
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: Gauhati University
-      year: 2023-Present
-    - course: Masters in Computer Science
-      institution: Gauhati University
-      year: 2022
-    - course: Bachelors in Computer Science
-      institution: Lalit Chandra Bharali College
-      year: 2019
+      year: 2021-Present
+    # - course: Masters in Computer Scince
+    #   institution: 
+    #   year: 2009
+    # - course: BSc in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -48,19 +48,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:deepjyotichetia@gauhati.ac.in'
-  - icon: linkedin
+    link: 'mailto:test@example.org'
+  - icon: twitter
     icon_pack: fab
-    link: https://www.linkedin.com/in/deepjyoti-chetia-0511b716a
+    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://g.co/kgs/8f3EMSy
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/sudonym221
-  - icon: researchgate
-    icon_pack: fab
-    link: https://www.researchgate.net/profile/Deepjyoti-Chetia
+    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -77,4 +74,6 @@ user_groups:
   - Visitors
 ---
 
-Project fellow and PhD Scholar @Gauhati University specializing in Computer Vision, Image processing and Deep Learning, With experience in Teaching and Software Development.
+<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->

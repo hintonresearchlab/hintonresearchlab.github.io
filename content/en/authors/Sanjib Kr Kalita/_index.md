@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Dr. Sanjib Kr Kalita
+title: Dr. Sanjib Kr. Kalita
 
 # Full name (for SEO)
 first_name: Sanjib Kr.
@@ -8,27 +8,28 @@ last_name: Kalita
 
 # Username (this should match the folder name)
 authors:
-  - Sanjib Kr Kalita
-  - sanjib kr kalita
+  - Sanjib Kr. Kalita
+  - sanjib kr. kalita
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate professor & HoD @Dept. of Computer Science
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Gauhati University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Sanjib Kr. Kalita is an Associate Professor and Head of Computer Science at Gauhati University, leading research in image processing, machine learning, and speech technologies with applications in biomedical imaging, hyperspectral analysis, and intelligent systems.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Speech Processing
+  - Image Processing
+  - Machine Learning
+  - Deep learning
 
 education:
   courses:
@@ -75,6 +76,6 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Sanjib Kr. Kalita is an Associate Professor and Head of the Department of Computer Science at Gauhati University, India. He received his Ph.D. from Gauhati University in 2009, where his research focused on speaker-independent speech recognition with reference to Assamese and Bodo phonemes. His research interests lie broadly in image processing, machine learning, deep learning, speech processing, and hyperspectral image analysis, with applications spanning biomedical imaging, pattern recognition, and intelligent data-driven systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Kalita has over fifteen years of experience in research and teaching in the areas of artificial intelligence and computational data analysis. He has supervised several postgraduate and doctoral research projects, with nine Ph.D. scholars completing their doctoral work under his guidance. He has authored two books and published more than seventy research papers in national and international journals and conference proceedings. He is actively involved in funded research projects related to AI-based systems, computer vision, and remote sensing applications.
