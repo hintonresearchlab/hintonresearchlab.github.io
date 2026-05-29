@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Junnior Project Fellow @ GB Pant IERP
+role: Junior Project Fellow @ GB Pant IERP
 
 # Organizations/Affiliations
 organizations:

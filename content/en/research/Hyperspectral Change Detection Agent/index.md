@@ -1,37 +1,33 @@
 ---
-title: "Hyperspectral"
+title: "Hyperspectral Change Detection and Change Captioning"
 
-date: "2025-08-07T00:00:00Z"
+date: 2025-08-07
+publishDate: 2025-08-07
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Research project focusing on hyperspectral image change detection and automatic change captioning using deep learning, Transformer, and state space models for remote sensing applications."
 
 tags:
-- Super resolution
-- Transformer
-- Mamba
-
+  - Hyperspectral Imaging
+  - Change Detection
+  - Change Captioning
+  - Deep Learning
+  - Computer Vision
+  - Remote Sensing
+  - Transformers
+  - Mamba
+  - State Space Models
 
 # Featured image
 image:
   filename: featured.jpg
-  caption: "Screenshot of My App"
+  caption: "Hyperspectral Change Detection and Captioning Framework"
   focal_point: Smart
 
 # Links displayed as buttons
-links:
-  - name: Demo
-    url: https://demo.example.com
-    icon: globe
-  - name: Code
-    url: https://github.com/user/project
-    icon: brands/github
-  - name: Paper
-    url: /publication/dutta-2025-state/
-    icon: document
-  - name: Paper
-    url: /publication/dutta-2024-recent/
-    icon: document
+# links:
+#   - name: Project Repository
+#     url: https://github.com/user/project
+#     icon: brands/github
 
 # External link (clicking project card opens this URL)
 external_link: ""
@@ -51,12 +47,61 @@ draft: false
 
 ## About This Project
 
-Describe your project in detail using Markdown. Include motivation, methodology, results, and impact.
+This research project focuses on developing advanced deep learning frameworks for **Hyperspectral Change Detection ** and **Change Captioning** using remote sensing imagery. The work aims to automatically identify significant temporal changes in hyperspectral satellite images and generate semantic textual descriptions of detected changes.
+
+The project explores robust AI-driven techniques combining:
+- Deep Learning
+- Vision Transformers
+- Mamba / State Space Models (SSM)
+- Attention Mechanisms
+- Multimodal Learning
+- Remote Sensing Image Analysis
+
+The primary objective is to improve accurate land-cover change analysis, disaster monitoring, environmental assessment, and intelligent geospatial understanding from hyperspectral imagery.
+
+## Research Focus
+
+The project investigates:
+- Pixel-level and semantic change detection
+- Temporal feature extraction from hyperspectral data
+- Lightweight and efficient Transformer architectures
+- Mamba-based sequence modeling for long-range dependencies
+- Vision-language models for automated change caption generation
+- Robustness against illumination and seasonal variations
+
+## Methodology
+
+The proposed pipeline includes:
+1. Hyperspectral image preprocessing and normalization
+2. Feature extraction using Transformer and Mamba architectures
+3. Spatial-spectral attention modeling
+4. Change map generation
+5. Semantic caption generation using multimodal learning frameworks
+
+## Applications
+
+Potential applications include:
+- Environmental monitoring
+- Forest and vegetation analysis
+- Urban expansion detection
+- Agricultural monitoring
+- Disaster assessment
+- Defense and surveillance systems
 
 ## Results
 
-Add figures, tables, and discussion.
+The project aims to achieve:
+- Improved change detection accuracy
+- Better semantic understanding of scene changes
+- Lightweight and scalable architectures
+- Enhanced interpretability in remote sensing AI systems
 
-## How to Use
+## Future Scope
 
-Include installation instructions, usage examples, or API documentation.
+Future directions include:
+- Foundation models for remote sensing
+- Large-scale multimodal geospatial learning
+- Real-time change captioning systems
+- Edge-AI deployment for satellite analytics
+- Self-supervised hyperspectral representation learning
+--- 

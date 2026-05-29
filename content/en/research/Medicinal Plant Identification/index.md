@@ -1,30 +1,32 @@
 ---
-title: "Medicinal Plant Identification"
+title: "Medicinal Plant Identification using Deep Learning"
 
-date: "2026-01-28T00:00:00Z"
+date: 2026-01-28
+publishDate: 2026-01-28
 
-
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+summary: "AI-driven medicinal plant identification project using deep learning, computer vision, and mobile-based intelligent systems for real-world biodiversity and herbal medicine applications."
 
 tags:
-- Source Themes
-featured: false
+  - Medicinal Plant Identification
+  - Deep Learning
+  - Computer Vision
+  - Image Classification
+  - Biodiversity Informatics
+  - Artificial Intelligence
+  - Mobile AI
+  - Plant Recognition
+  - Vision Transformers
 
-links:
-  - name: Demo
-    url: https://demo.example.com
-    icon: globe
-  - name: Code
-    url: https://github.com/user/project
-    icon: brands/github
-  - name: Paper
-    url: /publication/my-paper/
-    icon: document
+featured: true
+
+# links:
+#   - name: Project Repository
+#     url: https://github.com/user/project
+#     icon: brands/github
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Real-world medicinal plant identification using AI and computer vision'
   focal_point: "smart"
   preview_only: false
 
@@ -43,12 +45,67 @@ draft: false
 
 ## About This Project
 
-Describe your project in detail using Markdown. Include motivation, methodology, results, and impact.
+This project focuses on the development of an intelligent **Medicinal Plant Identification System** using advanced deep learning and computer vision techniques. The primary objective is to automatically recognize medicinal plants from leaf and plant images captured in real-world environments.
+
+The research integrates:
+- Deep Learning
+- Computer Vision
+- Vision Transformers
+- Attention Mechanisms
+- Mobile AI Applications
+- Fine-Grained Image Classification
+
+The system is designed to support biodiversity conservation, herbal medicine documentation, and accessible AI-driven plant identification for researchers, students, healthcare practitioners, and local communities.
+
+## Research Objectives
+
+The major objectives of the project include:
+- Real-world medicinal plant recognition
+- Leaf-based and whole-plant identification
+- Robust classification under varying lighting and background conditions
+- Development of lightweight mobile-friendly AI models
+- Creation of self-curated medicinal plant datasets
+- Explainable AI for plant identification systems
+
+## Methodology
+
+The proposed framework includes:
+1. Dataset collection and annotation
+2. Image preprocessing and augmentation
+3. Deep feature extraction using CNN and Transformer architectures
+4. Attention-based feature refinement
+5. Classification and confidence prediction
+6. Deployment through mobile and web-based applications
+
+The project explores architectures such as:
+- Convolutional Neural Networks (CNNs)
+- Vision Transformers (ViTs)
+- Hybrid Attention Models
+- Mamba and State Space Models (SSM)
+
+## Applications
+
+Potential applications include:
+- Herbal medicine documentation
+- Biodiversity conservation
+- Educational plant identification tools
+- Smart agriculture systems
+- Mobile-based field identification
+- Digital ethnobotany research
 
 ## Results
 
-Add figures, tables, and discussion.
+The project aims to:
+- Improve medicinal plant classification accuracy
+- Build robust real-world datasets
+- Develop lightweight and scalable AI models
+- Enhance interpretability using explainable AI techniques
 
-## How to Use
+## Future Scope
 
-Include installation instructions, usage examples, or API documentation.
+Future directions of the project include:
+- Multilingual plant information systems
+- Cross-domain plant recognition
+- Real-time mobile deployment
+- Integration with geospatial biodiversity mapping
+- Large-scale foundation models for plant intelligence

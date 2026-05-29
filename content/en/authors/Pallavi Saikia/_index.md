@@ -8,72 +8,53 @@ last_name: Saikia
 
 # Username (this should match the folder name)
 authors:
-  - Manash
+  - Pallavi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Reserach Scholar
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
   - name: Gauhati University
-    url: ''
+    url: 'https://gauhati.ac.in/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Medicaolm Imaging, Computer Vision and Image Processing,
+bio: My research interests include Medical Image Processing, Computer Vision, Deep Learning, Medical Imaging, and Artificial Intelligence.
 
 interests:
-  - Artificial Intelligence
+  - Medical Image Processing
   - Medical Imaging
+  - Computer Vision
   - Deep Learning
+  - Artificial Intelligence
+  - Machine Learning
+  - Healthcare AI
 
 education:
   courses:
     - course: PhD in Computer Science
       institution: Gauhati University
-      year: 2021-Present
-    # - course: Masters in Computer Scince
-    #   institution: 
-    #   year: 2009
-    # - course: BSc in Artificial Intelligence
-    #   institution: Massachusetts Institute of Technology
-    #   year: 2008
+      year: 2026
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: 'https://scholar.google.com/'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'saikia.pallavi@gmail.com'
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - Alumni
 ---
 
-<!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Pallavi Saikia is a Assistant Professor in the Centre for Distance and Online Education (GUCDOE), Gauhati University. Her research focuses on Medical Image Processing, Deep Learning, Computer Vision, and Artificial Intelligence for healthcare applications, particularly in the area of Alzheimer's disease detection using brain MRI images.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. -->
+Her work investigates the application of deep learning techniques for early-stage Alzheimer's disease diagnosis and classification. She has published research articles and review papers on MRI-based Alzheimer's disease detection, convolutional neural networks, and intelligent medical image analysis systems.
+
+Her broader research interests include Medical Imaging, Deep Learning, Computer Vision, Pattern Recognition, Healthcare AI, and intelligent diagnostic systems for neurological disorders.
